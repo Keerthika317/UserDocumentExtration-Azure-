@@ -1,0 +1,4 @@
+streamlit
+python-docx
+azure-ai-textanalytics>=5.3.0
+docx
